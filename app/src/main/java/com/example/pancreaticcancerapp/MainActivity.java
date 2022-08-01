@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     int imageWidth = 224;
 
 
-    //// Use for my model
+    // Use for my model
 //    int imageHeight = 727;
 //    int imageWidth = 549;
 
