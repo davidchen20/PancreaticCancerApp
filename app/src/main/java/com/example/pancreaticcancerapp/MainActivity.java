@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView;
     TextView result, confidence;
 
-    //// Use for teachable machine model
+    // Use for teachable machine model
     int imageHeight = 224;
     int imageWidth = 224;
 
